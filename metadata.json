@@ -1,0 +1,7 @@
+{
+  "name": "LingoPal - Fun English Companion",
+  "description": "A stress-free, interactive English learning companion that turns vocabulary building into a conversation and game. Features AI chat, contextual word extraction, and audio pronunciation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
